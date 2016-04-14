@@ -1,6 +1,6 @@
-# pythonProjects<br /><br />
+# pythonProjects
 As I'm learning python I will share anything I think might be of use.
-<br />
+<br /><br />
 Projects started on but not quite completed:<br />
 <br />
 Tweet message and image on Raspberry Pi start up<br />
