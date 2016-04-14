@@ -10,10 +10,10 @@ import os
 
 
 # Consumer keys and access tokens, used for OAuth
-consumer_key = 'ChiukPUJb6u6nRagnAnRWiQsw'
-consumer_secret = 'Iy2F0OSLyqq1jsNCPeEDWVEoSMyWUZqAbDZG87dJbf7zi7dujj'
-access_token = '1349020045-m1Sp47ssod8WTe5dPS55HrjB8L0MhrMBkaNmcsj'
-access_token_secret = 'q2neGXaOREro74elSjIsckV7rZEfLGFDKlQY7mt6KhfTV'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
  
 # OAuth process, using the keys and tokens
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
