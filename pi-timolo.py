@@ -265,10 +265,10 @@ def userMotionCodeHere(filename):
 
     # set up Tweepy
     # consumer keys and access tokens, used for authorisation
-    consumer_key = 'L1Y1tXugQIzCNfJ0UUVzsz3ID'
-    consumer_secret = '7zzgSIHV0Nuui6WtWOIfxyDK0l3Z11XTSXZnlTK65RDx52t5op'
-    access_token = '788125054332788737-oUrOjCKD9RNCX3qIFxl40G4W1dCbZY4'
-    access_token_secret = 'taGhzeIFQyr0OLHNbGNE1Xr3gUE79K9bFGoujjZ96epH3'
+    consumer_key = ''
+    consumer_secret = ''
+    access_token = ''
+    access_token_secret = ''
 
     # authorisation process, using the keys and tokens
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
